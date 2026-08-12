@@ -71,10 +71,4 @@ https.createServer(options, function (req, res) {
 
     npm install http-signature
 
-## License
 
-MIT.
-
-## Bugs
-
-See <https://github.com/joyent/node-http-signature/issues>.
